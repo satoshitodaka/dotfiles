@@ -1,0 +1,17 @@
+add_newline = true
+
+[character]
+symbol = "?"
+
+[directory]
+truncation_length = 100
+truncate_to_repo = false
+
+[memory_usage]
+disabled = false
+show_percentage = true
+show_swap = true
+threshold = -1
+symbol = " "
+separator = "/"
+style = "bold dimmed blue"
