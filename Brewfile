@@ -1,5 +1,6 @@
 brew "starship"
 brew "yarn"
+brew "mysql"
 
 cask "visual-studio-code"
 cask "iterm2"
