@@ -1,6 +1,9 @@
 brew "starship"
 brew "yarn"
 brew "mysql"
+brew "heroku"
+
+tap "heroku/brew"
 
 cask "visual-studio-code"
 cask "iterm2"
