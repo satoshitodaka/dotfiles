@@ -2,6 +2,7 @@ brew "starship"
 brew "yarn"
 brew "mysql"
 brew "heroku"
+brew "hadolint"
 
 tap "heroku/brew"
 
