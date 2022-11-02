@@ -3,6 +3,8 @@ brew "yarn"
 brew "mysql"
 brew "heroku"
 brew "hadolint"
+brew "gh"
+brew "rbenv"
 
 tap "heroku/brew"
 
@@ -19,3 +21,4 @@ cask "zoom"
 cask "Figma"
 cask "kindle"
 cask "drawio"
+cask "sequel-ace"
